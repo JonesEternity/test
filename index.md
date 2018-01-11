@@ -4,7 +4,7 @@
    1. Item 3a
    1. Item 3b
 
-   ![https://octodex.github.com/images/yaktocat.png]()
+   [https://octodex.github.com/images/yaktocat.png]
 
       Vad händer
 
